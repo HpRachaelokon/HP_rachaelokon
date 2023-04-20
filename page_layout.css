@@ -1,0 +1,26 @@
+  body{
+  margin:0px;
+}
+.header{
+background-color:lightgreen;
+height:30px
+width:100℅;
+}
+.subheader nav ul{
+  display:inline-flex;
+  list-style: none;
+  float:right;
+  padding:2px;
+  margin-top: 0px;
+  margin-right: 60px;
+  
+}
+.subheader nav ul li{
+  margin-right: 15px;
+}
+.subheader nav ul li a:hover{
+    color:white;
+    border:1px solid white;
+    border-radius: 5px;
+    background-color:green;
+}

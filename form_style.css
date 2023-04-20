@@ -8,6 +8,28 @@ body{margin: 0px;}
   font-size: 50px;
   text-shadow: 2px 2px 2px black;
 }
+.Racheal{
+  background-color: purple;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  
+}
+.Racheal ul{
+  display: inline-flex;
+  float: right;
+  list-style: none;
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-right: 50px;
+}
+.Racheal ul li{
+  margin-right: 15px;
+}
+.Racheal ul li a{
+  text-decoration: none;
+  color: white;
+}
+
 .head fieldset{
   margin-left: 10px;
   margin-right: 10px;
